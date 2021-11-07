@@ -49,7 +49,7 @@
 		<string>UIInterfaceOrientationPortrait</string>
 	</array>
 	<key>NSFaceIDUsageDescription</key>
-	<string>iGoat would like to use FaceID to authenticate you.</string>
+	<string>iGoat would like to use FaceID to authenticate you rather than using password.</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>

@@ -26,7 +26,7 @@ class RemoteAuthenticationExerciseVC: UIViewController {
         
         let urlString = RAConstants.EndPoints.loginUser(name: username, password: password)
         guard let url = URL(string: urlString) else {
-            print("Error: cannot create URL")
+            print("Error: cannot create URL for user \(username)")
             return
         }
       

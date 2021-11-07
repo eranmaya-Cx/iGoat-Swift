@@ -20,6 +20,8 @@ if($checksum === hash("sha256", $secret . $newmsg))
             {
                 echo "Congratualtion You bought iPhone in ZERO dollar!";
                 echo "Flag is BuG@2@i7}";
+                echo "New Flag is Test2222}";
+                echo "Flag is BuG@2@i7}";
 	
             }
             else

@@ -9,7 +9,7 @@
 #import "UIImage+animatedGIF.h"
 #import "SVProgressHUD.h"
 #import <CommonCrypto/CommonCrypto.h>
-#import <sqlite3.h>
+#import <sqlite2.h>
 #import <CouchbaseLite/CouchbaseLite.h>
 #import <Realm/Realm.h>
 #import <YapDatabase/YapDatabase.h>

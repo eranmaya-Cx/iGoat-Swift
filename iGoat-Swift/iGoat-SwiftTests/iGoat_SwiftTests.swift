@@ -1,6 +1,5 @@
 //
 //  iGoat_SwiftTests.swift
-//  iGoat-SwiftTests
 
 import XCTest
 @testable import iGoat_Swift

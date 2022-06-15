@@ -1,5 +1,3 @@
-//
-//  iGoat_SwiftTests.swift
 
 import XCTest
 @testable import iGoat_Swift

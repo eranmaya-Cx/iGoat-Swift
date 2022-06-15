@@ -1,10 +1,6 @@
 //
 //  iGoat_SwiftTests.swift
 //  iGoat-SwiftTests
-//
-//  Created by Anthony G on 07/04/18.
-//  Copyright © 2018 OWASP. All rights reserved.
-//
 
 import XCTest
 @testable import iGoat_Swift

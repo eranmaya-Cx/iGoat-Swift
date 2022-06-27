@@ -8,9 +8,7 @@ class iGoat_SwiftTests: XCTestCase {
         super.setUp()
     }
     
-    override func tearDown() {
-        super.tearDown()
-    }
+   
     
     func testExample() {
 

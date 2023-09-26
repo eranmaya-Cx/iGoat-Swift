@@ -40,12 +40,5 @@ extension AppDelegate {
         window?.makeKeyAndVisible()
     }
     
-    func configureSideMenu() {
-        SideMenuController.preferences.drawing.menuButtonImage = UIImage(named: "menu")
-        SideMenuController.preferences.drawing.sidePanelPosition = .underCenterPanelLeft
-        SideMenuController.preferences.drawing.sidePanelWidth = 300
-        SideMenuController.preferences.drawing.centerPanelShadow = true
-        SideMenuController.preferences.animating.statusBarBehaviour = .horizontalPan
-        SideMenuController.preferences.animating.transitionAnimator = FadeAnimator.self
-    }
+
 }
